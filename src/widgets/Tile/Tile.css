@@ -1,0 +1,19 @@
+.tile {
+    display: flex;
+    justify-content: space-between;
+    width: 60vw;
+    padding: 5px;
+    border-bottom: 1px solid #E6E6E6;
+}
+
+.tile__left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.tile__right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
